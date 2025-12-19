@@ -2,15 +2,6 @@
 
 Un conjunto de pruebas automatizadas (Cucumber + Playwright) para validar las principales funcionalidades de la API Petstore.
 
-## Contenido
-
-- Alcance y escenarios cubiertos
-- Requisitos e instalación
-- Cómo ejecutar las pruebas
-- Configuración de la Base URL
-- Ruta del reporte
-- Estructura recomendada para añadir tests
-- Depuración y notas
 
 ## Alcance
 
